@@ -1,4 +1,4 @@
 
 module.exports = {
-    mongoURI: 'mongodb+srv://liam34:vc63ft5c@cluster1234.wj8dt.mongodb.net/passportAppDB?retryWrites=true&w=majority'
+    mongoURI: 'mongodb+srv://<username>:<password>c@<clustername>.wj8dt.mongodb.net/<name ur databse here..any..>?retryWrites=true&w=majority'
 };
