@@ -1,5 +1,8 @@
 # passportApp
-Node.js With Passport Authentication using mongoDB 
+Node.js With Passport Authentication using mongoDB (i use vs code IDE and git bash on terminal)
+
+#create package.json
+on your main folder npm init -y
 
 #install dependencies
 npm i express bcryptjs passport passport-local ejs express-ejs-layouts mongoose connect-flash express-session
