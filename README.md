@@ -12,3 +12,8 @@ npm i -D nodemon
 
 #start the apps in localhost:5000
 npm run start or npm run dev
+
+*********************************************
+
+#connecting to mongoDB
+--edit URI config/keys.js use ur mongoDB cluster remove  "<>" replace it by your credential then your good to go.
